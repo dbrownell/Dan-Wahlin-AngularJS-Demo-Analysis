@@ -1,0 +1,17 @@
+C:\AngularJSExample2\AngularJsExample2\AngularJsExample2\bin\AngularJsExample2.dll.config
+C:\AngularJSExample2\AngularJsExample2\AngularJsExample2\bin\AngularJsExample2.dll
+C:\AngularJSExample2\AngularJsExample2\AngularJsExample2\bin\AngularJsExample2.pdb
+C:\AngularJSExample2\AngularJsExample2\AngularJsExample2\bin\AngularJsExample2.xml
+C:\AngularJSExample2\AngularJsExample2\AngularJsExample2\obj\Debug\AngularJsExample2.Resources.resources
+C:\AngularJSExample2\AngularJsExample2\AngularJsExample2\obj\Debug\AngularJsExample2.vbproj.GenerateResource.Cache
+C:\AngularJSExample2\AngularJsExample2\AngularJsExample2\obj\Debug\AngularJsExample2.dll
+C:\AngularJSExample2\AngularJsExample2\AngularJsExample2\obj\Debug\AngularJsExample2.xml
+C:\AngularJSExample2\AngularJsExample2\AngularJsExample2\obj\Debug\AngularJsExample2.pdb
+C:\AnjularJs\AngularJsWithDan-master\AngularJsExample2\AngularJsExample2\bin\AngularJsExample2.dll
+C:\AnjularJs\AngularJsWithDan-master\AngularJsExample2\AngularJsExample2\bin\AngularJsExample2.pdb
+C:\AnjularJs\AngularJsWithDan-master\AngularJsExample2\AngularJsExample2\bin\AngularJsExample2.xml
+C:\AnjularJs\AngularJsWithDan-master\AngularJsExample2\AngularJsExample2\obj\Debug\AngularJsExample2.Resources.resources
+C:\AnjularJs\AngularJsWithDan-master\AngularJsExample2\AngularJsExample2\obj\Debug\AngularJsExample2.vbproj.GenerateResource.Cache
+C:\AnjularJs\AngularJsWithDan-master\AngularJsExample2\AngularJsExample2\obj\Debug\AngularJsExample2.dll
+C:\AnjularJs\AngularJsWithDan-master\AngularJsExample2\AngularJsExample2\obj\Debug\AngularJsExample2.xml
+C:\AnjularJs\AngularJsWithDan-master\AngularJsExample2\AngularJsExample2\obj\Debug\AngularJsExample2.pdb
